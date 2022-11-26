@@ -24,7 +24,7 @@ python3 main.py
 To play the game, please click the input box, enter your name and press enter!
 <img width="832" alt="Screen Shot 2022-11-26 at 22 15 08" src="https://user-images.githubusercontent.com/113534334/204106079-89c46cea-c9e3-4e37-8225-124907691240.png">
 
-Next, you have to choose your favorite snake's color to play, click the triangle to change color till you like, press OK to go to the next step 
+Next, you have to choose your favorite snake's color to play, click the triangle to change color till you like, press enter to go to the next step 
 
 <img width="832" alt="Screen Shot 2022-11-26 at 22 27 29" src="https://user-images.githubusercontent.com/113534334/204105907-bf824e18-b0bc-4706-9658-78e33e64eb62.png">
 
