@@ -16,7 +16,7 @@ Run
 git checkout dev 
 ```
 ```bash
-cd Snake_world-game-/
+cd Snake_world-game/
 python3 main.py
 ```
 
