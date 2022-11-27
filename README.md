@@ -13,10 +13,13 @@ git@github.com:OnesNT/Snake_world-game-.git
 ```
 Run
 ```bash
+cd Snake_world-game- 
+```
+```bash
 git checkout dev 
 ```
 ```bash
-cd Snake_world-game/
+cd Snake_world_game/
 python3 main.py
 ```
 
